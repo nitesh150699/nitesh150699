@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh Bandaru</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on **** need to update ****
+- 🔭 I’m currently working on **Twitter Clone**
 
 - 🌱 I’m currently learning **System Design , Kubernetes**
 
