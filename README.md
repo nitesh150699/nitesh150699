@@ -11,7 +11,7 @@
 
 - ❤️‍🔥 I'm intrested in building complex web applications with end to end workflow 
 
-- 📄 Know about my experiences [** update **](** update **)
+- 📄 Company :Delta Airlines | Designation: SDE1
 
 - 🧐 I'm looking to collaborate on new oppurtunities where i can prove myself the best and also learn new things
 
