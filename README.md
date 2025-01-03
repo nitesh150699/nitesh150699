@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitesh Bandaru</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on **Twitter Clone**
 
 - 🌱 I’m currently learning **System Design , Kubernetes**
 
@@ -11,7 +10,7 @@
 
 - ❤️‍🔥 I'm intrested in building complex web applications with end to end workflow 
 
-- 📄 Company :Delta Airlines | Designation: SDE1
+- 📄 Company : Servicenow | Designation: SDE3
 
 - 🧐 I'm looking to collaborate on new oppurtunities where i can prove myself the best and also learn new things
 
